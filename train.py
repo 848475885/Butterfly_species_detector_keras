@@ -23,8 +23,7 @@ nb_train_samples = 782
 nb_validation_samples = 50
 epochs = 3
 
-#Data directory containing all the training images in subfolders 
-img_dir = '/home/bxv7657/but/data/'
+
 
 
 #Using a VGG16 pre-trained on ImageNet
@@ -51,6 +50,8 @@ train_datagen = ImageDataGenerator(
     shear_range=0.2,
     zoom_range=0.2,
     horizontal_flip=True)
+
+#Data directory containing all the training images in subfolders 
 train_generator = train_datagen.flow_from_directory(
     '/home/bxv7657/but/data/',
     target_size=(224, 224),
