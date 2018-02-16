@@ -16,4 +16,6 @@ Requirements:
 
 We choose 782 training samples and 50 validation samples and manage to achieve a training accuracy of 90.2% and a validation accuracy of 89.5%.
 
+To download the trained weight file for just testing. Download trained weights at https://drive.google.com/open?id=1t5cErFikxYl_ZtvSEr9IXSDpF5opadE1 
+
 
