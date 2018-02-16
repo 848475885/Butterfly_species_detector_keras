@@ -1,0 +1,12 @@
+{
+ 0: 'Danaus plexippus:Monarch',
+ 2: 'Heliconius charitonius:Zebra Longwing',
+ 3: 'Heliconius erato:Crimson-patched Longwing',
+ 4: 'Junonia coenia:Common Buckeye',
+ 5: 'Lycaena phlaeas:American Copper',
+ 6: 'Nymphalis antiopa:Mourning Cloak',
+ 7: 'Papilio cresphontes:Giant Swallowtail',
+ 8: 'Pieris rapae:Cabbage White',
+ 9: 'Vanessa atalanta:Red Admiral',
+ 1: 'Vanessa cardui:Painted Lady'}
+
