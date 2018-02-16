@@ -23,9 +23,6 @@ nb_train_samples = 782
 nb_validation_samples = 50
 epochs = 3
 
-
-
-
 #Using a VGG16 pre-trained on ImageNet
 resmo = VGG16(weights='imagenet', include_top=True)
 
